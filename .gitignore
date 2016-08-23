@@ -1,5 +1,6 @@
 .vs
 bin/
 obj/
+bower_components/
 project.lock.json
 *.user
